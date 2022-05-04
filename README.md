@@ -12,3 +12,7 @@
 
   </body>
 </html>
+
+Model class: getNotesModel
+getNotesModel.js
+getNotes.test.js
