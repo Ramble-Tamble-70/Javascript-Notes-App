@@ -5,7 +5,7 @@ class NotesView {
   }
 
   displayNotes() {
-    const notes = this.model.getNotes()
+    const notes = this.model.getNotes();
 
     notes.forEach(note => {
       const noteEl = document.createElement('div');

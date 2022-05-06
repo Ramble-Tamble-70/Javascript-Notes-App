@@ -1,4 +1,4 @@
-<!-- Leave comments like this - this is the minimum HTML template you need to have a blank page -->
+<!-- This is the minimum HTML template you need to have a blank page -->
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -12,7 +12,3 @@
 
   </body>
 </html>
-
-Model class: getNotesModel
-getNotesModel.js
-getNotes.test.js

@@ -3,10 +3,11 @@
  */
 
 const fs = require('fs');
+
 const NotesModel = require('./notesModel');
 const NotesView = require('./notesView');
 
-describe('Notes display', () => {
+describe('Notes view', () => {
   it('displays 2 notes', () => {
   document.body.innerHTML = fs.readFileSync('./index.html');
   
